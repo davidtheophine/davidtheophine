@@ -1,4 +1,4 @@
-### Hi there 👋 my name is David Theophine. I'm learning Git.
+### Hi there 👋 my name is David Theophine. 
 
 <!--
 **davidtheophine/davidtheophine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
