@@ -1,4 +1,7 @@
 ### Hi there 👋 my name is David Theophine. 
+I'm currently studying at The University of British Columbia as a Cognitive Science Major.
+I'm currently working on a nukber of projects including a social netorking app for students.
+Pronouns: he/him
 
 <!--
 **davidtheophine/davidtheophine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
