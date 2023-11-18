@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is David Theophine. 
 I'm currently studying at The University of British Columbia as a Cognitive Science Major.
-I'm currently working on a nukber of projects including a social netorking app for students.
+I'm currently working on a number of projects including a social netorking app for students.
 Pronouns: he/him
 
 <!--
